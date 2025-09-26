@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareerFluence Backend
 
 ## Setup Instructions
@@ -48,3 +49,6 @@ The server automatically generates the following charts:
 - In-demand skills horizontal bar chart
 
 Charts are saved in the `charts/` directory and served via the API.
+=======
+# careerfluence-backend
+>>>>>>> 62d4530ccc2871315afa1a7946a5a1326a809c88
